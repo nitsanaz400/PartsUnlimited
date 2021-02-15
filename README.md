@@ -1,4 +1,6 @@
-﻿# Parts Unlimited
+[![Build Status](https://dev.azure.com/NitsanDemo/AZ-400-PasrtsUnlimited/_apis/build/status/nitsanaz400.PartsUnlimited?branchName=master)](https://dev.azure.com/NitsanDemo/AZ-400-PasrtsUnlimited/_build/latest?definitionId=27&branchName=master)
+
+# Parts Unlimited
 
 Parts Unlimited is an example eCommerce website site based for training purposes on the website described in chapters 31-35 of The Phoenix Project, by Gene Kim, Kevin Behr and George Spafford, © 2013 IT Revolution Press LLC, Portland, OR. Resemblance to “Project Unicorn” in the novel is intentional; resemblance to any real company is purely coincidental. 
 
